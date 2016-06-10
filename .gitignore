@@ -95,3 +95,4 @@ Thumbs.db
 .idea/compiler.xml
 .idea/gradle.xml
 .idea/libraries/android_iconify_fontawesome_2_2_2.xml
+gradle.properties
