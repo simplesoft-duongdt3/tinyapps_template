@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="lib_anonation.lib_anonation">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib_anonation/build/libs/lib_anonation.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
