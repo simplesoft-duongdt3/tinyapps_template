@@ -55,6 +55,7 @@ local.properties
 .signing/
 
 # User-specific configurations
+.idea/
 .idea/libraries/
 .idea/workspace.xml
 .idea/tasks.xml
@@ -90,4 +91,6 @@ Thumbs.db
 .idea/vcs.xml
 .idea/libraries/recyclerview_v7_23_4_0.xml
 .idea/libraries/appcompat_v7_23_4_0.xml
+.idea/gradle.xml
+.idea/compiler.xml
 .idea/gradle.xml
